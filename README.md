@@ -1,2 +1,3 @@
 # gocom
-Placeholder repo for the gocom project
+
+Placeholder package. The `gocom` name is reserved for a future project.
